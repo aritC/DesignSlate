@@ -1,2 +1,3 @@
 # DesignSlate
-SysSlate: An open-source web application for creating system design and workflow diagrams. 
+
+An open-source web application for creating system design and workflow diagrams. 
